@@ -1,0 +1,32 @@
+h3 {
+text-decoration:underline;
+text-align: center;
+
+}
+
+p{ 
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: center;
+}
+body{
+background-color: lightblue;
+
+}
+
+
+
+.jumbotron{
+    background-color: coral;
+}
+img{
+    width: 50px;
+}
+.bp{
+    font-size: 50px;
+}
+
+video{
+width: 1400px;
+height: 1100px;
+}
